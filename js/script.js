@@ -16,15 +16,15 @@ function updateTimer() {
 	document.getElementById("timer").innerHTML =
 	  "<div>" +
 	  d +
-	  "<span>days</span></div>" +
+	  "<span>დღე</span></div>" +
 	  "<div>" +
 	  h +
-	  "<span>hours</span></div>" +
+	  "<span>საათი</span></div>" +
 	  "<div>" +
 	  m +
-	  "<span>minutes</span></div>" +
+	  "<span>წუთი</span></div>" +
 	  "<div>" +
 	  s +
-	  "<span>seconds</span></div>";
+	  "<span style='font-family:BPG Mikheil Stefane;'> წამი</span></div>";
   }
   setInterval("updateTimer()", 1000);
