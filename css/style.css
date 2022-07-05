@@ -95,6 +95,7 @@ ul {
     color: #000;
     margin-bottom: 0.8em;
     text-transform: uppercase;
+    font-family: "ALK Rex Bold", sans-serif;
     letter-spacing: 5px;
 }
 
@@ -125,9 +126,11 @@ ul {
     margin-right: 0;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-    color:rgba(230, 0, 79, 0.9);
-	    border: 1px solid #fff;
+    color:
+    rgba(230, 0, 79, 0.9);
+    border: 1px solid #fff;
     border-radius: 50px;
+    font-family: "ALK Rex Bold", sans-serif;
     background: #fff;
 }
 .navbar-default .navbar-nav > .active > a:before{
@@ -171,6 +174,7 @@ nav.navbar.navbar-default {
 }
 .navbar-nav {
     margin-top: 14px;
+    font-family: "ALK Rex Bold", sans-serif;
 }
 /*.navbar-default .navbar-nav > li > a {
   */
@@ -649,12 +653,12 @@ span.banner-icon {
 /*--//services--*/
 /*--bloag--*/
 .blog-br{
-    background: url(../images/br1.jpg) no-repeat 0px 0px;
+    background: url(../images/nino.jpg) no-repeat 0px 0px;
     background-size: cover;
     min-height: 378px;
 }
 .blog-gr {
-    background: url(../images/gr1.jpg) no-repeat 0px 0px;
+    background: url(../images/chemi.jpg) no-repeat 0px 0px;
     background-size: cover;
     min-height: 378px;
 }
