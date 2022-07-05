@@ -162,7 +162,8 @@ ul {
 }
 nav.navbar.navbar-default {
     background: none;
-       padding:1em 0em;
+    /* padding: 201em 0em; */
+    padding-bottom: 4em;
 }
 .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
        color: #262c38;
