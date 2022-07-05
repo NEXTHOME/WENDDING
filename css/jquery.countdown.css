@@ -1,3 +1,25 @@
+body {text-align: center;padding: 70px 50px;background: #0d1a29;font-family: sans-serif;font-weight: lighter;/* background-color: #000; */}
+ 
+#timer {
+  font-size: 3em;
+  font-weight: 200;
+  color: white;
+  background-color: #aa390033;
+  padding: 66px;
+  text-shadow: 0 0 3px #a6003d;
+}
+ 
+#timer div {
+  display: inline-block;
+  min-width: 90px;
+}
+ 
+#timer div span {
+  color: #b1cdf1;
+  display: block;
+  font-size: 0.35em;
+  font-weight: 400;
+}
 .countdownHolder{
 	font: 23px/0.8  'Quicksand', sans-serif;
     height: 89px;
