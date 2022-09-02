@@ -1,5 +1,5 @@
 function updateTimer() {
-	future = Date.parse("17/09/2022 , 17:30:00");
+	future = Date.parse("2022 17:30:00");
 	now = new Date();
 	diff = future - now;
    
@@ -25,6 +25,6 @@ function updateTimer() {
 	  "<span>წუთი</span></div>" +
 	  "<div>" +
 	  s +
-	  "<span style='font-family:BPG Mikheil Stefane;'> წამი</span></div>";
+	  "<span> წამი</span></div>";
   }
   setInterval("updateTimer()", 1000);
