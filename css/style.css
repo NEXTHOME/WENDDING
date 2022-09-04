@@ -2033,6 +2033,37 @@ h4.modal-title {
 }
 /*--//responsive--*/
 
+/* youtube */
+@media (max-width: 768px)
+.nishnoba {
+    width:100%;
+    height:150px;
+}
+@media (max-width: 900px)
+.nishnoba {
+width:100%;
+height:200px;
+}
+@media (max-width: 1050px)
+.nishnoba {
+    width:100%;
+    height:300px;
+}
+@media (max-width: 1080px)
+.nishnoba {
+    width:100%;
+    height:400px;
+}
+@media (max-width: 1280px)
+.nishnoba {
+    width:100%;
+    height:500px;
+}
+
+
+
+
+
 
 
 
